@@ -18,7 +18,7 @@ To support profitability optimization through accurate risk scoring of credit ca
 - Validated with **k-fold cross-validation**
 
 ## Results
-- **Validation Accuracy**: 84%
+- **Validation AUC**: 0.84
 - Built a risk framework for financial decision-making
 
 ## Tools Used
